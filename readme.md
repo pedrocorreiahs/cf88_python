@@ -32,7 +32,11 @@ Este é um projeto simples criado para prática de Python, com objetivo de consu
 
 ## 📂 Estrutura do Projeto
 
-cf88/ │ ├── cf88.csv ├── consultar_artigos.py └── README.md
+cf88/
+│
+├── Constituição_Federal.csv
+├── Consultar_Artigos.py
+└── README.md
 
 ---
 
