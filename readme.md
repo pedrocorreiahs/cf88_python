@@ -1,25 +1,51 @@
-# Consulta de Artigos da Constituição Federal (CF/88) com Python
+# Projeto: Consulta de Artigos da Constituição Federal (CF/88) com Python
 
-Projeto simples para consulta de artigos da Constituição Federal de 1988, usando Python e arquivos CSV.
+Este é um projeto simples criado para prática de Python, com objetivo de consultar artigos da Constituição Federal de 1988.
+
+---
 
 ## 📄 Sobre o Projeto
 
-- O script lê um arquivo `cf88.csv` onde estão armazenados os artigos da Constituição.
-- O usuário informa o número do artigo que deseja consultar.
+- Lê um arquivo `cf88.csv` contendo os artigos.
+- Usuário digita o número do artigo.
 - O programa exibe o conteúdo completo do artigo.
+
+---
 
 ## 🚀 Tecnologias utilizadas
 
 - Python 3.x
-- Biblioteca padrão `csv`
+- Manipulação de arquivos CSV
+- Lógica condicional em Python
 - Git e GitHub
+
+---
 
 ## 🧠 Aprendizados
 
 - Leitura e escrita de arquivos CSV
-- Manipulação de dicionários em Python
-- Organização de projetos para portfólio
-- Primeiros passos com Git e GitHub
+- Organização de dados com dicionários
+- Controle de fluxo simples em Python
+- Publicação de projetos no GitHub
+
+---
 
 ## 📂 Estrutura do Projeto
+
+cf88/ │ ├── cf88.csv ├── consultar_artigos.py └── README.md
+
+---
+
+## ✍️ Autor
+
+Pedro Henrique — Advogado com interesse em Ciência de Dados aplicada ao Direito.
+
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-363943350/)
+
+---
+
+## 📢 Observação
+
+Este projeto foi realizado como prática para consolidar conhecimentos de lógica de programação, manipulação de arquivos e publicação no GitHub.
+
 
