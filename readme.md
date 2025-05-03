@@ -29,11 +29,10 @@ O programa agora pergunta ao usuário qual cor deseja usar para o texto do artig
 - branco
 - preto
 - cinza
-- ciano
 - magenta
 - laranja
 - roxo
-- rosa
+
 
 Caso o usuário digite uma cor inválida, o sistema exibe uma mensagem de erro e utiliza a cor branca como padrão.
 
