@@ -1,4 +1,4 @@
-# Projeto: Consulta de Artigos da Constituição Federal (CF/88) com Python
+# Projeto: Consulta de Artigos da Constituição Federal de 1988 com Python
 
 Este é um projeto simples e didático criado para praticar conceitos de lógica de programação com Python, utilizando dados reais da Constituição Federal de 1988.
 
